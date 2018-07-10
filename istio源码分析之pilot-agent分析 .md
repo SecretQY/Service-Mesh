@@ -1,7 +1,7 @@
 # Service Mesh深度学习系列（一）| istio源码分析之pilot-agent模块分析
 本文分析的istio代码版本为0.8.0，commit为0cd8d67，commit时间为2018年6月18日。
   
- {}
+ 
 
 ## pilot总体架构 
 ![istio architecture](https://camo.githubusercontent.com/919e2e3cd8e4267a00035b813df53902864a3388/68747470733a2f2f63646e2e7261776769742e636f6d2f697374696f2f70696c6f742f6d61737465722f646f632f70696c6f742e737667)
