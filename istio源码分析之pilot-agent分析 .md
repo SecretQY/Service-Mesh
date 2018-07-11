@@ -180,3 +180,11 @@ agent会监控chainfile，keyfile和rootcert三个证书文件的变化，如果
 1. [下一代 Service Mesh -- istio 架构分析](https://juejin.im/post/5afad93ef265da0b7e0c6cfb)  
 2. [istio源码分析——pilot-agent如何管理envoy生命周期](https://segmentfault.com/a/1190000015171622)  
 
+
+作者介绍：
+
+丁轶群博士
+
+谐云科技CTO
+
+2004年作为高级技术顾问加入美国道富银行(浙江)技术中心，负责分布式大型金融系统的设计与研发。2011年开始领导浙江大学开源云计算平台的研发工作，是浙江大学SEL实验室负责人，2013年获得浙江省第一批青年科学家称号，CNCF会员，多次受邀在Cloud Foundry, Docker大会上发表演讲，《Docker：容器与容器云》主要作者之一。
