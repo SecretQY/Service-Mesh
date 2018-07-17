@@ -123,3 +123,7 @@ pilot-discovery初始化第六步中通过构建service controller实现对Kuber
 ## pilot-discovery主要功能分析之四：Envoy控制面信息服务
 pilot-discovery创建Envoy xds server对外提供gRPC协议discovery服务。所谓的`xds`代表Envoy v2 data plane api中的`eds`、 `cds`、 `rds`、 `lds`、 `hds`、 `ads`、 `kds`等api。  
 与Envoy xds server相关代码分析我们将在系列文章的下一篇分析。
+
+作者简介
+丁轶群
+谐云科技CTO
