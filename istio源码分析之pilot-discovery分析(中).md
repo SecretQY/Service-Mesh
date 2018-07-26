@@ -14,7 +14,7 @@
 > 对于模块的命名方法，本文采用模块对应源码main.go所在包名称命名法。其他istio分析文章有其他命名方法。比如pilot-agent也被称为istio pilot，因为它在Kubernetes上的部署形式为一个叫istio-pilot的deployment。
 
 ## pilot-discovery的统一存储模型（Abstract Model）
-![](//PilotAdapters.svg "pilot architecture")
+![](https://mmbiz.qpic.cn/mmbiz_png/KpsG9zYT9aJRzkRoPPc7kU1juU20kaWo8PKaMaSHy8bpyG85NdRUMSdUJEeicArsiaxHic06ecLKQ9UOFIHFUgc2A/?wx_fmt=png)
 
 根据上面官方的pilot-discovery架构图，pilot-discovery有两个输入信息（黄色部分）  
 
