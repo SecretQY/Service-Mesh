@@ -58,3 +58,14 @@ IstioConfigStore封装了embed在ConfigStoreCache中的同一个ConfigStore对�
 
 1. endpoint：一个具体的“应用实例”，对应ip和端口号，类似Kubernetes中的一个pod。
 2. cluster：一个cluster
+
+
+## 本文作者
+
+丁轶群博士
+
+谐云科技CTO
+
+2004年作为高级技术顾问加入美国道富银行(浙江)技术中心，负责分布式大型金融系统的设计与研发。2011年开始领导浙江大学开源云计算平台的研发工作，是浙江大学SEL实验室负责人，2013年获得浙江省第一批青年科学家称号，CNCF会员，多次受邀在Cloud Foundry, Docker大会上发表演讲，《Docker：容器与容器云》主要作者之一。
+
+**原创文章，未经允许，不得转载！**
